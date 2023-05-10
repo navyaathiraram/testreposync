@@ -1,1 +1,1 @@
-import pip
+pip list && pip install simplejson
